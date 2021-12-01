@@ -1,6 +1,6 @@
 # Advent of Code 2021
 
-Repository for solving [Advent of Code](https://adventofcode.com) in [Kotlin](https://kotlinlang.org/)
+Repository for solving [Advent of Code](https://adventofcode.com) in [Kotlin](https://kotlinlang.org/).
 
 ## Getting started
 
